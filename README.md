@@ -1,4 +1,5 @@
 # Dog-Cat-Recognition- 
+The application will output whether the image uploaded is of Cat or Dog.
 Application is deployed on various cloud platform
 1-Heroku
 2-AWS 
