@@ -7,7 +7,7 @@ Application is deployed on various cloud platform
 3-Azure
 Live application on Heroku link- https://cat-dog-recognition-aj.herokuapp.com/
 
-
+Training done on 1000 images of cats and same for dog for train and another 1000 images as validation data.
 Dashboard Interface -
 
 ![Screenshot (86)](https://user-images.githubusercontent.com/90152799/178048515-71057665-9022-4862-9a55-3101dc9f3e05.png)
