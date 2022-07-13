@@ -1,4 +1,20 @@
 # Dog-Cat-Recognition- 
+**Convolutional Neural Network**
+
+A Convolutional Neural Network ( ConvNet /CNN) is a **Deep Learning** algorithm which can take in an input image, assign importance (learnable weights and biases) to various objects in the image and be able to differentiate one from the other. 
+
+The architecture of CNN is similar to what our brain functionality happens .
+A convolutional neural network is used to detect and classify objects in an image.
+
+A ConvNet is able to successfully capture the Spatial and Temporal dependencies in an image through the application of relevant filters. The architecture performs a better fitting to the image dataset due to the reduction in the number of parameters involved and reusability of weights.
+
+The role of the ConvNet is to reduce the images into a form which is easier to process, without losing features which are critical for getting a good prediction. This is important when we are to design an architecture which is not only good at learning features but also is scalable to massive datasets.
+
+
+
+
+
+
 Accuracy is above 85%.
 The application will output whether the image uploaded is of Cat or Dog.
 Application is deployed on various cloud platform
