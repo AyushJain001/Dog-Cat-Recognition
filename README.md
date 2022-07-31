@@ -11,7 +11,12 @@ A ConvNet is able to successfully capture the Spatial and Temporal dependencies 
 The role of the ConvNet is to reduce the images into a form which is easier to process, without losing features which are critical for getting a good prediction. This is important when we are to design an architecture which is not only good at learning features but also is scalable to massive datasets.
 
 
-
+## 🧮 Workflow
+- Fork the repository
+- Clone your forked repository using terminal or gitbash.
+- Make changes to the cloned repository
+- Add, Commit and Push
+- Then in Github, in your cloned repository find the option to make a pull request
 
 
 
@@ -36,4 +41,10 @@ After Uploading Image it Classified the Image and gave the output as either Cat/
 ![Screenshot (87)](https://user-images.githubusercontent.com/90152799/178048637-93fe69e8-9c5d-4746-99ec-17ea1d792951.png)
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/90152799/178048862-ec9ecb5f-4ad5-4159-966e-b3158a4e5983.png)
+
+
+
+If you liked working on this project, do ⭐ and share this repository.
+
+🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
