@@ -23,6 +23,7 @@ The role of the ConvNet is to reduce the images into a form which is easier to p
 Accuracy is above 85%.
 The application will output whether the image uploaded is of Cat or Dog.
 Application is deployed on various cloud platform
+
 ●Heroku
 
 ●AWS 
@@ -49,7 +50,11 @@ After Uploading Image it Classified the Image and gave the output as either Cat/
 
 
 
-If you liked working on this project, do ⭐ and share this repository.
+Want to contribute in this ?
+
+Just raise an issue and start working .
+
+If you liked my work on this project, do ⭐ and share this repository.
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
 
