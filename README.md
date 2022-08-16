@@ -23,10 +23,15 @@ The role of the ConvNet is to reduce the images into a form which is easier to p
 Accuracy is above 85%.
 The application will output whether the image uploaded is of Cat or Dog.
 Application is deployed on various cloud platform
-1-Heroku
-2-AWS 
-3-Azure
-Live application on Heroku link- https://cat-dog-recognition-aj.herokuapp.com/
+●Heroku
+
+●AWS 
+
+●Azure
+
+Live application on Heroku link-
+
+https://cat-dog-recognition-aj.herokuapp.com/
 
 Training done on 1000 images of cats and same for dog for train and another 1000 images as validation data.
 Dashboard Interface -
