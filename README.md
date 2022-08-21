@@ -10,6 +10,26 @@ A ConvNet is able to successfully capture the Spatial and Temporal dependencies 
 
 The role of the ConvNet is to reduce the images into a form which is easier to process, without losing features which are critical for getting a good prediction. This is important when we are to design an architecture which is not only good at learning features but also is scalable to massive datasets.
 
+The convolutional neural network is built on three primary layers, which are:
+
+Convolutional Layer
+Pooling Layer
+Fully Connected Layer
+
+
+*Convolutional Layer:*
+
+The convolutional layer is the heart of CNN’s, it does most of the work in identifying the features in the given image. Then in the convolution layer, we consider square blocks of some random size of the input image and apply the dot product with the filter(random filter size). If the two matrices(the patch and the filter) have high values in the same positions, the convolution layer output will be high(which gives the bright side of the image).
+
+*Pooling Layer:*
+
+In Pooling Layer we need one more operation which downsamples the image. Hence to make the learning process easy for the network, the pixel values in the arrays are reduced by using the "pooling" operation. 
+
+
+*Fully Connected Layer:*
+
+The fully connected layer (FC) operates on a flattened input where each input is connected to all the neurons. These are usually used at the end of the network to connect the hidden layers to the output layer, which help in optimizing the class scores.
+
 
 ## 🧮 Workflow
 - Fork the repository
