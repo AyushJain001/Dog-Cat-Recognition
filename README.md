@@ -1,3 +1,4 @@
+## 🧮 Workflow
 # Dog-Cat-Recognition- 
 **Convolutional Neural Network**
 
@@ -31,7 +32,7 @@ In Pooling Layer we need one more operation which downsamples the image. Hence t
 The fully connected layer (FC) operates on a flattened input where each input is connected to all the neurons. These are usually used at the end of the network to connect the hidden layers to the output layer, which help in optimizing the class scores.
 
 
-## 🧮 Workflow
+## 🧮 Contribute your work
 - Fork the repository
 - Clone your forked repository using terminal or gitbash.
 - Make changes to the cloned repository
