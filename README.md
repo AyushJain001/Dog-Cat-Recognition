@@ -1,4 +1,5 @@
-## 🧮 Workflow
+## 🧮 Workflow of project
+
 # Dog-Cat-Recognition- 
 **Convolutional Neural Network**
 
