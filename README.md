@@ -33,12 +33,6 @@ In Pooling Layer we need one more operation which downsamples the image. Hence t
 The fully connected layer (FC) operates on a flattened input where each input is connected to all the neurons. These are usually used at the end of the network to connect the hidden layers to the output layer, which help in optimizing the class scores.
 
 
-## 🧮 Contribute your work
-- Fork the repository
-- Clone your forked repository using terminal or gitbash.
-- Make changes to the cloned repository
-- Add, Commit and Push
-- Then in Github, in your cloned repository find the option to make a pull request
 
 
 
@@ -78,5 +72,5 @@ Just raise an issue and start working .
 
 If you liked my work on this project, do ⭐ and share this repository.
 
-🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
+🎉 🎊 😃 Happy Contributing.Keep Learning 😃 🎊 🎉
 
